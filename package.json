@@ -1,0 +1,22 @@
+{
+  "name": "pi-google-adsense",
+  "version": "0.0.1",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:guilhermegeek/pi-google-adsense.git"
+  },
+  "author": "Guilherme Cardoso",
+  "homepage": "https://guilherme.ovh",
+  "devDependencies": {
+    "bower": "^1.3.12",
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.5.2"
+  },
+  "dependencies": {
+    
+  }
+}
