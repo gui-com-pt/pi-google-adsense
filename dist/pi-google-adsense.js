@@ -11,6 +11,7 @@
               delete($window[key]);
             }
           );
+        });
       }])
       .provider('googleAdsenseConfig', function(){
         var configs = {
